@@ -55,16 +55,16 @@ flowchart TD
     Home --> Carreiras
     Home --> Contato
     
-    Solucoes --> |subpaginas| [Previsao de Demanda]
-    Solucoes --> [Planejamento Tatico & S&OP]
-    Solucoes --> [Otimizacao de Producao & Capacidade]
-    Solucoes --> [Roteirizacao & Alocacao]
-    Solucoes --> [Precificacao & Revenue]
+    Solucoes --> |subpaginas| Previsao_de_Demanda
+    Solucoes --> Planejamento_Tatico_SOP
+    Solucoes --> Otimizacao_de_Producao_Capacidade
+    Solucoes --> Roteirizacao_Alocacao
+    Solucoes --> Precificacao_Revenue
     
-    Cases --> [Hub com filtros]
-    Conteudos --> [Blog/Webinars/Podcast]
-    Recursos --> [Calculadora ROI]
-    Recursos --> [Assessment de Maturidade]
+    Cases --> Hub_com_filtros
+    Conteudos --> Blog_Webinars_Podcast
+    Recursos --> Calculadora_ROI
+    Recursos --> Assessment_de_Maturidade
 ```
 
 ## 4. Páginas-Chave
