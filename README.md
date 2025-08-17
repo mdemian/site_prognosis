@@ -55,11 +55,11 @@ flowchart TD
     Home --> Carreiras
     Home --> Contato
     
-    Solucoes --> |subpáginas| [Previsão de Demanda]
-    Solucoes --> [Planejamento Tático & S&OP]
-    Solucoes --> [Otimização de Produção & Capacidade]
-    Solucoes --> [Roteirização & Alocação]
-    Solucoes --> [Precificação & Revenue]
+    Solucoes --> |subpaginas| [Previsao de Demanda]
+    Solucoes --> [Planejamento Tatico & S&OP]
+    Solucoes --> [Otimizacao de Producao & Capacidade]
+    Solucoes --> [Roteirizacao & Alocacao]
+    Solucoes --> [Precificacao & Revenue]
     
     Cases --> [Hub com filtros]
     Conteudos --> [Blog/Webinars/Podcast]
