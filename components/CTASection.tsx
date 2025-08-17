@@ -72,7 +72,7 @@ export default function CTASection() {
                         <div className="text-white">
                             <h2 className="text-3xl font-bold sm:text-4xl">
                                 Pronto para transformar sua{' '}
-                                <span className="text-primary-200">supply chain?</span>
+                                <span className="text-primary-200">rotina, área ou empresa?</span>
                             </h2>
                             <p className="mt-6 text-lg text-primary-100">
                                 Agende um diagnóstico gratuito com nossos especialistas e descubra
